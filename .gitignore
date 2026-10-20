@@ -1,0 +1,36 @@
+# C++/CMake/VS build
+build/
+out/
+bin/
+*.exe
+*.out
+*.o
+*.obj
+*.lib
+*.dll
+*.a
+*.pdb
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+compile_commands.json
+
+# IDE
+.vscode/.cache/
+.idea/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+
+# OS/Temp
+.DS_Store
+Thumbs.db
+*.tmp
+*.log
+
+# SFML config
+SFML-*
