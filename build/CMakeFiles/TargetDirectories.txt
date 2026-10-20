@@ -1,0 +1,3 @@
+C:/Users/bouaz/OneDrive/Desktop/Project c++ AI Sketchpad/build/CMakeFiles/AI_Sketchpad.dir
+C:/Users/bouaz/OneDrive/Desktop/Project c++ AI Sketchpad/build/CMakeFiles/edit_cache.dir
+C:/Users/bouaz/OneDrive/Desktop/Project c++ AI Sketchpad/build/CMakeFiles/rebuild_cache.dir
